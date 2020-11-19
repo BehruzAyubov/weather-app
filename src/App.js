@@ -16,9 +16,7 @@ class App extends Component {
     }
   }
 
-  inti(){
-    console.log('hellow')
-  }
+
   getWeather = (e)=> {
     e.preventDefault();
 
